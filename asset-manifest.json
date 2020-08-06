@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmandeepSsaini.github.io/catch-the-eye-react/static/css/main.154fdd86.chunk.css",
+    "main.js": "/AmandeepSsaini.github.io/catch-the-eye-react/static/js/main.00cb1633.chunk.js",
+    "main.js.map": "/AmandeepSsaini.github.io/catch-the-eye-react/static/js/main.00cb1633.chunk.js.map",
+    "runtime-main.js": "/AmandeepSsaini.github.io/catch-the-eye-react/static/js/runtime-main.cdfdc30b.js",
+    "runtime-main.js.map": "/AmandeepSsaini.github.io/catch-the-eye-react/static/js/runtime-main.cdfdc30b.js.map",
+    "static/js/2.e6de5ad5.chunk.js": "/AmandeepSsaini.github.io/catch-the-eye-react/static/js/2.e6de5ad5.chunk.js",
+    "static/js/2.e6de5ad5.chunk.js.map": "/AmandeepSsaini.github.io/catch-the-eye-react/static/js/2.e6de5ad5.chunk.js.map",
+    "index.html": "/AmandeepSsaini.github.io/catch-the-eye-react/index.html",
+    "precache-manifest.224cce0133cd37dba485f00475e0fd09.js": "/AmandeepSsaini.github.io/catch-the-eye-react/precache-manifest.224cce0133cd37dba485f00475e0fd09.js",
+    "service-worker.js": "/AmandeepSsaini.github.io/catch-the-eye-react/service-worker.js",
+    "static/css/main.154fdd86.chunk.css.map": "/AmandeepSsaini.github.io/catch-the-eye-react/static/css/main.154fdd86.chunk.css.map",
+    "static/js/2.e6de5ad5.chunk.js.LICENSE.txt": "/AmandeepSsaini.github.io/catch-the-eye-react/static/js/2.e6de5ad5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdfdc30b.js",
+    "static/js/2.e6de5ad5.chunk.js",
+    "static/css/main.154fdd86.chunk.css",
+    "static/js/main.00cb1633.chunk.js"
+  ]
+}
